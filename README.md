@@ -30,5 +30,5 @@ Client Window will appear like above
 Messages will transfer successfully and also Time will be shown below each message
 
 **NOTE : Save all the PNG images into "icons" folder in src directory of project while running.**  
-![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/864b5173-ddc1-45c0-b215-ca77950aa7bc)
+![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/864b5173-ddc1-45c0-b215-ca77950aa7bc)  
 Project Structure will look like above 
