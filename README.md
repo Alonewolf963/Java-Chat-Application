@@ -16,7 +16,19 @@ requests to programs on a server Machine. These involve networking services prov
 the transport layer. The most widely used transport protocols on the Internet are TCP 
 (Transmission control Protocol) and UDP (User Datagram Protocol).
 
-TCP is a connection-oriented protocol providing a reliable flow of data between two 
-computers. On the other hand, UDP is a simpler message-based connectionless protocol 
-which sends packets of data known as datagrams from one computer to another with no 
-guarantees of arrival.
+Steps for running Chat Application :
+1) Run Server.java file  
+![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/e1cf5525-a003-4270-9b21-1bae69287ced)  
+Server Window will appear like above
+
+2) Run Client.java file  
+![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/9320f04a-b115-4986-a6eb-e2bd69a4a4e1)  
+Client Window will appear like above  
+
+3) Type the message in Text bar and Hit "Enter"   
+![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/a10be669-4d2d-4f32-b79e-429771d816f9)
+Messages will transfer successfully and also Time will be shown below each message
+
+**NOTE : Save all the PNG images into "icons" folder in src directory of project while running.**  
+![image](https://github.com/Alonewolf963/Java-Chat-Application/assets/91773191/864b5173-ddc1-45c0-b215-ca77950aa7bc)
+Project Structure will look like above 
